@@ -31,3 +31,5 @@ the tech stack used includes:
 7. Google Fonts: The font library used for importing and applying custom fonts to the web page.
 
 Overall, the tech stack includes the standard web technologies (HTML, CSS, JavaScript) along with the Tailwind CSS framework, Daisy UI CSS, Boxicons, and Google Fonts.
+
+![Screenshot (386)](https://github.com/jks6404/OCTANET_JULY2/assets/119485859/f4c769de-b8c1-445a-8979-d3fd4e6b868c)
