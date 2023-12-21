@@ -1,4 +1,4 @@
-# OCTANET_JULY2
+
 made to do list app using html, css,  javascript and Tailwind CSS performs major role in this project.
 the features of the Todoist application include:
 
