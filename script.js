@@ -118,9 +118,9 @@ function clearAllTodos() {
     if(todos.length > 0) {
         todos = [];
         saveToLocalStorage();
-        showAlertMessage('All todos cleared successfully', 'success');
+        showAlertMessage('All Todos cleared successfully', 'success');
         showAllTodos();
     }else{
-        showAlertMessage('No todos to clear', 'error');
+        showAlertMessage('No Todos to clear', 'error');
     }
 }
